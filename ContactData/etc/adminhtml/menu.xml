@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Backend:etc/menu.xsd">
+  <menu>
+    <add id="Kitchen365_ContactData::contact_us_data" title="Contact Us Data" translate="title" module="Kitchen365_ContactData" sortOrder="70" parent="Magento_Customer::customer" action="contact/contact/index" resource="Kitchen365_ContactData::contact_us_data" />
+  </menu>
+</config>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+/**
+ * Copyright © Magento, Inc. All rights reserved.
+ * See COPYING.txt for license details.
+ */
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:Indexer/etc/indexer.xsd">
+    <indexer id="contact_us_form_indexer" view_id="contact_us_form_view" class="Kitchen365\ContactData\Model\Indexer\ContactUs">
+        <title translate="true">Contact Us Indexer</title>
+        <description translate="true">Contact Us Form Indexer</description>
+    </indexer>
+</config>
